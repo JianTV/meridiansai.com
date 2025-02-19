@@ -38,7 +38,6 @@ We envision a world where TCM is more accessible, understandable, and personaliz
 
 Join us in shaping the future of Traditional Chinese Medicine with AI.
 
-🔗 **Website:** [Coming Soon]  
 📧 **Contact:** hello@meridians.ai  
 📍 **Location:** USA  
 
