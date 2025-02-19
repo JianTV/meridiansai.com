@@ -1,33 +1,45 @@
+# Meridians AI
 
+## Bridging Traditional Chinese Medicine with AI Innovation
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+Meridians AI is dedicated to transforming acupuncture clinics in the USA by integrating the wisdom of Traditional Chinese Medicine (TCM) with cutting-edge artificial intelligence. Our goal is to help clinics connect with potential patients seamlessly, ensuring a smooth bilingual (Mandarin and English) experience that helps individuals determine if acupuncture is right for them.
 
-## Step 2: Configure your site
+---
 
-_You turned on GitHub Pages! :tada:_
+## 🌟 Our Vision
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+We envision a world where TCM is more accessible, understandable, and personalized through AI-powered solutions. By enhancing communication between clinics and patients, we break down language barriers and provide a modern approach to centuries-old healing traditions.
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+---
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+## 🔍 What We Offer
 
-### :keyboard: Activity: Configure your site
+✅ **AI-Powered Customer Support** – Intelligent, bilingual (Mandarin & English) chat and voice assistants to answer patient inquiries.
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+✅ **Seamless Clinic Discovery** – Helping patients find the right clinic based on their needs, preferences, and location.
 
+✅ **Enhanced Patient Engagement** – Personalized guidance on acupuncture treatments, ensuring patients feel confident in their care journey.
 
+✅ **Operational Efficiency** – AI-driven tools to optimize clinic workflows, scheduling, and patient management.
+
+---
+
+## 💡 Why Choose Meridians AI?
+
+🔹 **Cultural & Language Integration** – Designed for both English and Mandarin speakers to ensure clarity and accessibility.
+
+🔹 **Empowering Clinics** – AI tools that support practitioners in delivering top-tier service without the administrative burden.
+
+🔹 **Preserving TCM Heritage** – Honoring ancient healing practices while leveraging modern AI for better patient care.
+
+---
+
+## 🚀 Get Involved
+
+Join us in shaping the future of Traditional Chinese Medicine with AI.
+
+🔗 **Website:** [Coming Soon]  
+📧 **Contact:** hello@meridians.ai  
+📍 **Location:** USA  
+
+Let's modernize acupuncture while staying true to its roots! 🌿🤖
