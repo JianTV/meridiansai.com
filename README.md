@@ -1,54 +1,44 @@
-<header>
+# Meridians AI
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## Bridging Traditional Chinese Medicine with AI Innovation
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Meridians AI is dedicated to transforming acupuncture clinics in the USA by integrating the wisdom of Traditional Chinese Medicine (TCM) with cutting-edge artificial intelligence. Our goal is to help clinics connect with potential patients seamlessly, ensuring a smooth bilingual (Mandarin and English) experience that helps individuals determine if acupuncture is right for them.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🌟 Our Vision
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+We envision a world where TCM is more accessible, understandable, and personalized through AI-powered solutions. By enhancing communication between clinics and patients, we break down language barriers and provide a modern approach to centuries-old healing traditions.
 
-</footer>
+---
+
+## 🔍 What We Offer
+
+✅ **AI-Powered Customer Support** – Intelligent, bilingual (Mandarin & English) chat and voice assistants to answer patient inquiries.
+
+✅ **Seamless Clinic Discovery** – Helping patients find the right clinic based on their needs, preferences, and location.
+
+✅ **Enhanced Patient Engagement** – Personalized guidance on acupuncture treatments, ensuring patients feel confident in their care journey.
+
+✅ **Operational Efficiency** – AI-driven tools to optimize clinic workflows, scheduling, and patient management.
+
+---
+
+## 💡 Why Choose Meridians AI?
+
+🔹 **Cultural & Language Integration** – Designed for both English and Mandarin speakers to ensure clarity and accessibility.
+
+🔹 **Empowering Clinics** – AI tools that support practitioners in delivering top-tier service without the administrative burden.
+
+🔹 **Preserving TCM Heritage** – Honoring ancient healing practices while leveraging modern AI for better patient care.
+
+---
+
+## 🚀 Get Involved
+
+Join us in shaping the future of Traditional Chinese Medicine with AI.
+
+📧 **Contact:** customers@meridiansai.com 
+📍 **Location:** USA  
+
+Let's modernize acupuncture while staying true to its roots! 🌿🤖
